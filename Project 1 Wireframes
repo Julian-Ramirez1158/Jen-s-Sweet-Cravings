@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-16T18:12:47.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="V0vO3lEPw2g-QCTFTCdz" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-16T18:22:42.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="UqLHIhiCp2EnKfJgG1ke" version="13.6.2" type="github">
   <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -26,13 +26,7 @@
           <mxGeometry x="20" y="15" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="21" value="Logo" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
-          <mxGeometry x="20" y="20" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="22" value="Menu" style="text;spacingTop=-5;" parent="1" vertex="1">
-          <mxGeometry x="200" y="70.00000000000026" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="23" value="Place Your Order" style="text;spacingTop=-5;" parent="1" vertex="1">
-          <mxGeometry x="320" y="70.00000000000003" width="30" height="20" as="geometry" />
+          <mxGeometry x="20" y="30" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" parent="1" vertex="1">
           <mxGeometry x="100" y="160" width="360" height="200" as="geometry" />
@@ -45,24 +39,6 @@
         </mxCell>
         <mxCell id="32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" parent="1" vertex="1">
           <mxGeometry x="20" y="1120" width="570" height="480" as="geometry" />
-        </mxCell>
-        <mxCell id="33" value="Article 3" style="text;spacingTop=-5;" parent="1" vertex="1">
-          <mxGeometry x="20" y="1120" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="34" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#xa;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?" style="text;spacingTop=-5;whiteSpace=wrap;align=left" parent="1" vertex="1">
-          <mxGeometry x="20" y="1150" width="530" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="35" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="1370" width="360" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="36" value="Article&#xa;Picture" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontSize=36;fontColor=#CCCCCC" parent="1" vertex="1">
-          <mxGeometry x="100" y="1370" width="360" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="43" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.rating;strokeColor=#999999;fillColor=#ffff00;emptyFillColor=#ffffff;grade=4;ratingScale=5;ratingStyle=star;" parent="1" vertex="1">
-          <mxGeometry x="510.0000000000001" y="1584.9999999999998" width="77.5" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="44" value="Rate this article" style="text;spacingTop=-5;" parent="1" vertex="1">
-          <mxGeometry x="410.00000000000017" y="1579.9999999999998" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="49" value="Tags: Tag1 Tag2 Tag3 Tag4" style="text;spacingTop=-5;" parent="1" vertex="1">
           <mxGeometry x="20" y="1579.9999999999998" width="210" height="20" as="geometry" />
@@ -87,6 +63,18 @@
         </mxCell>
         <mxCell id="j6Ir73D2UM-9icKBjXBZ-54" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris&lt;/span&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="730" width="90" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="j6Ir73D2UM-9icKBjXBZ-59" value="Home" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="630" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j6Ir73D2UM-9icKBjXBZ-62" value="Place Your Order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="660" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j6Ir73D2UM-9icKBjXBZ-64" value="Home" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="70" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j6Ir73D2UM-9icKBjXBZ-65" value="Place Your Order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="70" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
