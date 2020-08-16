@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-16T18:42:18.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="NyzKOzb_oeNYa80vlRMu" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-16T18:51:50.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="ffUPvrIYtlssXso-25E7" version="13.6.2" type="github">
   <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -7,26 +7,23 @@
         <mxCell id="13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" parent="1" vertex="1">
           <mxGeometry x="20" y="120" width="570" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="2" value="Jen&#39;s Sweet Cravings " style="text;spacingTop=-5;fontSize=18;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="70" y="30" width="230" height="20" as="geometry" />
+        <mxCell id="2" value="Jen&#39;s Sweet Cravings " style="text;spacingTop=-5;fontSize=18;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="210" y="140" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3" value="" style="line;strokeWidth=1" parent="1" vertex="1">
-          <mxGeometry x="20" y="60" width="570" height="10" as="geometry" />
+          <mxGeometry x="20" y="170" width="570" height="10" as="geometry" />
         </mxCell>
         <mxCell id="4" value="" style="line;strokeWidth=1" parent="1" vertex="1">
-          <mxGeometry x="20" y="90" width="570" height="10" as="geometry" />
+          <mxGeometry x="20" y="200" width="570" height="10" as="geometry" />
         </mxCell>
         <mxCell id="5" value="(Nav Bar)" style="text;spacingTop=-5;" parent="1" vertex="1">
-          <mxGeometry x="20" y="70.00000000000009" width="30" height="20" as="geometry" />
+          <mxGeometry x="30" y="180.00000000000009" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="&#xa;&#xa;&#xa;&#xa;About us&#xa;&#xa;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#xa;" style="text;spacingTop=-5;whiteSpace=wrap;align=left" parent="1" vertex="1">
+        <mxCell id="9" value="&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;About us&#xa;&#xa;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#xa;" style="text;spacingTop=-5;whiteSpace=wrap;align=left" parent="1" vertex="1">
           <mxGeometry x="30" y="340" width="530" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="15" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="21" value="Logo" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
-          <mxGeometry x="20" y="30" width="40" height="30" as="geometry" />
+          <mxGeometry x="40" y="140" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="27" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" parent="1" vertex="1">
           <mxGeometry x="20" y="620" width="570" height="480" as="geometry" />
@@ -62,19 +59,19 @@
           <mxGeometry x="510" y="660" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j6Ir73D2UM-9icKBjXBZ-64" value="Home" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="70" width="40" height="20" as="geometry" />
+          <mxGeometry x="200" y="180" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="j6Ir73D2UM-9icKBjXBZ-65" value="Place Your Order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="303" y="70" width="110" height="20" as="geometry" />
+          <mxGeometry x="303" y="180" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="j6Ir73D2UM-9icKBjXBZ-66" value="&lt;h1&gt;Place Your Order&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="1169" width="210" height="41" as="geometry" />
         </mxCell>
         <mxCell id="j6Ir73D2UM-9icKBjXBZ-67" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.coverFlow;strokeColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="95" y="150" width="400" height="200" as="geometry" />
+          <mxGeometry x="95" y="230" width="400" height="200" as="geometry" />
         </mxCell>
         <mxCell id="j6Ir73D2UM-9icKBjXBZ-68" value="Picture Carousel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="200" width="70" height="70" as="geometry" />
+          <mxGeometry x="260" y="295" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="j6Ir73D2UM-9icKBjXBZ-70" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="60" y="1230" width="200" height="300" as="geometry" />
