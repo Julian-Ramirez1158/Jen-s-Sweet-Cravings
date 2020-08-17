@@ -1,0 +1,10 @@
+html {
+    background-color: #f2e1bf;
+    font-family: Avenir, sans-serif;
+}
+header > img {
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

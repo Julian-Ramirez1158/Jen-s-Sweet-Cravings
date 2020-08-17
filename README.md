@@ -2,7 +2,7 @@ Julian Ramirez
 
 This project serves as a basic online shop for a local baker. The home page contains a carousel with images of the products 
 offered by the baker as well as an "About us" section providing a descriton of the company. The home page will also provide 
-a nav bar with hyperlinks to either the "Menu" page or the "Place Your Order" page. The menus page consists of two centered
+a nav bar with hyperlinks to either the "Menu" page or the "Place Your Order" page. The menu page consists of two centered
 columns that display the menu items and pricing. This page also has a nav bar that can direct the user either to the home page
 or the "Place Your Order" page. The "Place Your Order" page consists of an HTML form in which the user can input contact information,
 place their order, and enter a method of payment. This last page also provides a nav bar that the user can utilize to navigate back to the 
