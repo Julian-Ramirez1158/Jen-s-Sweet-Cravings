@@ -2,6 +2,7 @@ html {
     background-color: #f2e1bf;
     font-family: Avenir, sans-serif;
     color: white;
+    font-size: 1.5em;
 }
 header > img {
     width: 70%;
