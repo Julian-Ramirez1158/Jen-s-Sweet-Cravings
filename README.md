@@ -1,4 +1,4 @@
-# Project 1- Jen's Sweet Cravings
+# Jen's Sweet Cravings
 ## Julian Ramirez
 
 ## Introduction

@@ -5,24 +5,58 @@ html {
     font-size: 1.5em;
 }
 
-header > img {
-    width: 70em;
+#home-header {
+    background-color: brown;
+}
+
+#banner {
+    width: 70%;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.navbar {
+    padding: 20px;
+    font-size: 1.2em;
 }
 
 h1 {
     text-align: center;
 }
 
-article {
+#about-us {
     border-style: solid;
+    padding: 25px;
 }
-
 
 .main-container {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
+}
+
+.main-container__section {
+    width: 25vw;
+    display: inline-block;
+}
+
+.main-container__article {
+    border-style: solid;
+    padding: 25px;
+    height: 600px;
+}
+
+label {
+    display: block;
+}
+
+input {
+    padding: 10px;
+    font-size: .8em;
+}
+
+select {
+    padding: 5px;
+    font-size: 1em;
 }
