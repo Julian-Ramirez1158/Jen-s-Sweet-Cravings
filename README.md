@@ -8,7 +8,7 @@ a nav bar with hyperlinks to either the "Menu" page or the "Place Your Order" pa
 columns that display the menu items and pricing. This page also has a nav bar that can direct the user either to the home page
 or the "Place Your Order" page. The "Place Your Order" page consists of an HTML form in which the user can input contact information,
 place their order, and enter a method of payment. This last page also provides a nav bar that the user can utilize to navigate back to the 
-home page or menu page. The technologies used in this project are HTML, CSS, and Javascript. The site can improve on color schemes, Javascript
+home page or menu page. The technologies used in this project are HTML, CSS, and Javascript. The site can improve on color schemes, integrating Javascript
 logic to improve the form page, and more interactivity. 
 
 ## User stories:
