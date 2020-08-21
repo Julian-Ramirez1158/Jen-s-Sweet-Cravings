@@ -2,7 +2,7 @@ html {
     background-color: #f2e1bf;
     font-family: Avenir, sans-serif;
     color: brown;
-    font-size: 1.5em;
+    font-size: 14px;
 }
 
 #home-header {
@@ -10,7 +10,7 @@ html {
 }
 
 #banner {
-    width: 70%;
+    width: 60%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -18,16 +18,24 @@ html {
 
 .navbar {
     padding: 20px;
-    font-size: 1.2em;
+    font-size: 2.5em;
+    font-family: "Brush Script MT", cursive; 
+    text-align: center;
+}
+
+a {
+    color: #5fbaba;
 }
 
 h1 {
     text-align: center;
+    font-size: 3.5em;
 }
 
 #about-us {
     border-style: solid;
-    padding: 25px;
+    padding: 18px;
+    font-size: 1.3em;
 }
 
 .main-container {
@@ -37,26 +45,39 @@ h1 {
 }
 
 .main-container__section {
-    width: 25vw;
+    width: 22vw;
     display: inline-block;
 }
 
 .main-container__article {
     border-style: solid;
     padding: 25px;
-    height: 600px;
+    height: 435px;
+    font-size: 1.2em;
+}
+
+.form__section {
+    width: 55vw;
+}
+
+.legend {
+    font-size: 1.7em;
 }
 
 label {
     display: block;
+    font-size: 1.3em;
 }
 
 input {
-    padding: 10px;
-    font-size: .8em;
+    padding: 7px;
+    font-size: 1.1em;
+    margin: 8px;
 }
 
 select {
-    padding: 5px;
+    padding: 7px;
     font-size: 1em;
+    margin: 8px;
+    width: 7.5vw;
 }
