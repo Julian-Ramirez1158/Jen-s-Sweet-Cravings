@@ -77,7 +77,15 @@ input {
 
 select {
     padding: 7px;
-    font-size: 1em;
+    font-size: 1.1em;
     margin: 8px;
-    width: 7.5vw;
+    width: 8vw;
+}
+
+.footer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    padding: 50px;
 }
