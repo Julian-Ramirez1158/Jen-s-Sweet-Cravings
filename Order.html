@@ -20,33 +20,32 @@
         </nav>
     </section>
     <main class="main-container">
-        <section class="form__section">
-            <form action="https://formspree.io/mnqgyzra" method="POST">
-                <fieldset>
+            <form action="https://formspree.io/mnqgyzra" method="POST" class="form">
+                <fieldset class="form__fieldset">
                     <legend class="legend">Contact Information</legend>
-                    <div>
+                    <div class="contactInfoInputs">
                         <label for="firstname">First Name</label>
                         <input type="text" id="firstname" name="firstname" required>
                     </div>
-                    <div>
+                    <div class="contactInfoInputs">
                         <label for="lastname">Last Name</label>
                         <input type="text" id="lastname" name="lastname">
                     </div>
-                    <div>
+                    <div class="contactInfoInputs">
                         <label for="email">Email</label>
                         <input type="email" id="email" name="email" required>
                     </div>
-                    <div>
+                    <div class="contactInfoInputs">
                         <label for="phonenumber">Phone Number</label>
                         <input type="tel" id="phonenumber" name="phonenumber" required>
                     </div>
                 </fieldset>
 
-                <fieldset>
+                <fieldset class="form__fieldset">
                     <legend class="legend">Desserts</legend>
-                    <div>
+                    <div class="dessertOptions">
                         <label for="cheesecakes">Cheesecakes</label>
-                        <select name="cheesecakeoptions" id="cheesecakeoptions">
+                        <select name="cheesecakes" id="cheesecakes">
                             <option value="" disabled selected hidden>Select a dessert</option>
                             <option value="nystyle">New York Style</option>
                             <option value="strawberry">Strawberry</option>
@@ -58,7 +57,7 @@
                             <option value="espresso">Espresso</option>
                         </select>
                     </div>
-                    <div>
+                    <div class="dessertOptions">
                         <label for="latinfavorites">Latin Favorites</label>
                         <select name="latinfavorites" id="latinfavorites">
                             <option value="" disabled selected hidden>Select a dessert</option>
@@ -67,9 +66,9 @@
                             <option value="brazo">Brazo de Reina</option>
                         </select>
                     </div>
-                    <div>
+                    <div class="dessertOptions">
                         <label for="size">Size</label>
-                        <select name="size" id="size">
+                        <select name="size" id="size" required>
                             <option value="" disabled selected hidden>Select a size</option>
                             <option value="mini">Mini</option>
                             <option value="small">Small</option>
@@ -78,9 +77,9 @@
                             <option value="10-inch">10"</option>
                         </select>
                     </div>
-                    <div>
+                    <div class="dessertOptions">
                         <label for="quantities">Quantities</label>
-                        <select name="quantities" id="quantities">
+                        <select name="quantities" id="quantities" required>
                             <option value="" disabled selected hidden>Select a quantity</option>
                             <option value="1">1</option>
                             <option value="2">2</option>
@@ -88,9 +87,9 @@
                             <option value="4">4</option>
                         </select>
                     </div>
-                    <div>
+                    <div class="dessertOptions">
                         <label for="deliveryoption">Pick-Up/Delivery</label>
-                        <select name="deliveryoption" id="deliveryoption">
+                        <select name="deliveryoption" id="deliveryoption" required>
                             <option value="" disabled selected hidden>Select an option</option>
                             <option value="pickup">Pick-up</option>
                             <option value="delivery">Delivery</option>
@@ -98,15 +97,13 @@
                     </div>
 
                 </fieldset>
-                <input type="submit" value="Submit">
+                <input type="submit" value="Submit" id="submit">
             </form>
-        </section>
     </main>
 
     <footer>
         <img src="./Images/logocircle.png" alt="logo" class="footer">
     </footer>
 
-    
 </body>
 </html>

@@ -1,3 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+html, body, div, img {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+body {
+    line-height: 1;
+}
+
 html {
     background-color: #f2e1bf;
     font-family: Avenir, sans-serif;
@@ -5,8 +20,14 @@ html {
     font-size: 14px;
 }
 
+body {
+    margin: 0;
+}
+
 #home-header {
     background-color: brown;
+    height: 20vw;
+    width: 100%;
 }
 
 #banner {
@@ -14,6 +35,7 @@ html {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    height: 100%;
 }
 
 .navbar {
@@ -23,8 +45,10 @@ html {
     text-align: center;
 }
 
+
 a {
     color: #5fbaba;
+    padding: 15px;
 }
 
 h1 {
@@ -32,32 +56,72 @@ h1 {
     font-size: 3.5em;
 }
 
+#about-us__section {
+    width: 75vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #about-us {
     border-style: solid;
-    padding: 18px;
+    padding: 40px;
     font-size: 1.3em;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5em;
+    
 }
 
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.gallery__img {
+    width: 300px;
+    height: 270px;
+    border: 10px solid white;
+}
+
+.img-with-text {
+    text-align: center;
+    font-size: 1.4rem;
+    padding: 30px;
+}
+
+.img-with-text p {
+    width: 300px;
+}
+.img-with-text ul {
+    list-style-type: none;
+    text-align: left;
+}
+
+  
 .main-container {
     display: flex;
-    justify-content: space-around;
-    align-items: center;
+    justify-content: center;
+    width: 75vw;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.main-container__section {
-    width: 22vw;
-    display: inline-block;
+
+
+.form {
+    width: 100%;
 }
 
-.main-container__article {
-    border-style: solid;
-    padding: 25px;
-    height: 435px;
-    font-size: 1.2em;
-}
-
-.form__section {
-    width: 55vw;
+.form__fieldset {
+    margin: 40px;
+    padding: 15px;
+    border-color: brown;
 }
 
 .legend {
@@ -67,25 +131,45 @@ h1 {
 label {
     display: block;
     font-size: 1.3em;
+    text-align: left;
+    margin: 8px 8px 8px 0px;
+}
+
+.contactInfoInputs {
+    margin: 20px;
+}
+
+.dessertOptions {
+    margin: 20px;  
 }
 
 input {
     padding: 7px;
     font-size: 1.1em;
-    margin: 8px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 select {
     padding: 7px;
     font-size: 1.1em;
-    margin: 8px;
-    width: 8vw;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+#submit {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border-color: brown;
 }
 
 .footer {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 10%;
+    width: 15%;
     padding: 50px;
 }
