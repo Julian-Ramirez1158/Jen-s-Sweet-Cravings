@@ -1,14 +1,7 @@
 * {
     box-sizing: border-box;
 }
-html, body, div, img {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    font-size: 100%;
-    font: inherit;
-    vertical-align: baseline;
-}
+
 body {
     line-height: 1;
 }
@@ -18,25 +11,30 @@ html {
     font-family: Avenir, sans-serif;
     color: brown;
     font-size: 14px;
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
 
 body {
     margin: 0;
 }
 
+
 #home-header {
     background-color: brown;
-    height: 20vw;
-    width: 100%;
+    width: 100vw;
+    height: 350px;
 }
 
 #banner {
-    width: 60%;
+    width: 1150px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     height: 100%;
 }
+
 
 .navbar {
     padding: 20px;
@@ -66,11 +64,10 @@ h1 {
     border-style: solid;
     padding: 40px;
     font-size: 1.3em;
-    width: 70%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
     border-radius: 5em;
-    
 }
 
 .container {
@@ -107,7 +104,7 @@ h1 {
 .main-container {
     display: flex;
     justify-content: center;
-    width: 75vw;
+    width: 70vw;
     margin-left: auto;
     margin-right: auto;
 }
@@ -115,13 +112,17 @@ h1 {
 
 
 .form {
-    width: 100%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .form__fieldset {
     margin: 40px;
     padding: 15px;
     border-color: brown;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .legend {
@@ -148,6 +149,7 @@ input {
     font-size: 1.1em;
     margin-left: auto;
     margin-right: auto;
+    width: 200px;
 }
 
 select {
@@ -158,18 +160,151 @@ select {
     width: 200px;
 }
 
+.formImage {
+    width: 300px;
+    height: 270px;
+    margin: 20px;
+}
+
 #submit {
     display: block;
     margin-left: auto;
     margin-right: auto;
     background-color: white;
     border-color: brown;
+    width: 150px;
 }
 
 .footer {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 15%;
+    width: 300px;
+    height: 300px; 
     padding: 50px;
+}
+
+@media screen and (max-width: 1150px) {
+    #banner {
+        width: 900px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 100%;
+    }
+
+    #home-header {
+        background-color: brown;
+        width: 100vw;
+        height: 325px;
+    }
+
+    #about-us__section {
+        width: 100vw;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #about-us {
+        border-style: solid;
+        padding: 40px;
+        font-size: 1.3em;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 5em;
+    }
+
+}
+
+@media screen and (max-width: 900px) {
+    #banner {
+        width: 700px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 100%;
+    }
+
+    #home-header {
+        background-color: brown;
+        width: 100vw;
+        height: 300px;
+    }
+
+    #about-us__section {
+        width: 100vw;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #about-us {
+        border-style: solid;
+        padding: 40px;
+        font-size: 1.3em;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 5em;
+    }
+
+}
+
+@media screen and (max-width: 700px) {
+    #banner {
+        width: 500px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 100%;
+    }
+
+    #home-header {
+        background-color: brown;
+        width: 100vw;
+        height: 225px;
+    }
+
+    #about-us__section {
+        width: 100vw;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #about-us {
+        border-style: solid;
+        padding: 40px;
+        font-size: 1em;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 5em;
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 2.75em;
+    }
+
+}
+
+@media screen and (max-width: 500px) {
+    #banner {
+        width: 375px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 100%;
+    }
+
+    #home-header {
+        background-color: brown;
+        width: 100vw;
+        height: 175px;
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 2.5em;
+    }
 }
