@@ -41,12 +41,17 @@ body {
     font-size: 2.5em;
     font-family: "Brush Script MT", cursive; 
     text-align: center;
+    padding: 0;
 }
 
 
 a {
     color: #5fbaba;
     padding: 30px;
+}
+
+.active {
+    color: brown;
 }
 
 h1 {
@@ -331,5 +336,10 @@ select {
         width: 100vw;
         margin-left: auto;
         margin-right: auto;
+    }
+
+    a {
+        color: #5fbaba;
+        padding: 20px;
     }
 }
