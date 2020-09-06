@@ -46,14 +46,13 @@ body {
 
 a {
     color: #5fbaba;
-    padding: 15px;
+    padding: 30px;
 }
 
 h1 {
     text-align: center;
     font-size: 3.5em;
-    margin-top: 70px; 
-    margin-bottom: 0px;
+    margin-top: 0;
 }
 
 #about-us__section {
@@ -152,6 +151,8 @@ input {
     margin-left: auto;
     margin-right: auto;
     width: 200px;
+    box-shadow: 3px 3px 3px rgb(55,55,55);
+    border-color: brown;
 }
 
 select {
@@ -160,6 +161,8 @@ select {
     margin-left: auto;
     margin-right: auto;
     width: 200px;
+    box-shadow: 3px 3px 3px rgb(55,55,55);
+    border-color: brown;
 }
 
 .formImage {
@@ -174,7 +177,19 @@ select {
     margin-right: auto;
     background-color: white;
     border-color: brown;
-    width: 150px;
+    width: 200px;
+    line-height: 25px;
+    box-shadow: 3px 3px 3px rgb(55,55,55);
+    font-size: 1.6em;
+    font-weight: bold;
+    color: brown;
+    border-radius: .4em;
+}
+
+#submit:hover {
+    cursor: pointer;
+    color: rgb(255,255,255);
+    background-color: brown;
 }
 
 .footer {
